@@ -11,4 +11,9 @@ members:
 - George
 - Tyler
 - Kim
+<<<<<<< HEAD
 - asdfasdfasdf
+=======
+
+fetch : this
+>>>>>>> be3e5bf7b51bf2120cd12e8e6235899bf98cfd94
